@@ -1,0 +1,19 @@
+.search-container{
+	position: relative;
+    width: 90%;
+    display: grid;
+    grid-template-columns: none;
+    grid-template-rows: none;
+    grid-gap: 0px 0px;
+    border-style: solid;
+    border-color: #56c6c6;
+    border-radius: 10px;
+    background-color: white;
+}
+.search-form{
+	margin-bottom: 15px;
+}
+option:hover {
+background-color : #000000;
+color : #ffffff;
+}
